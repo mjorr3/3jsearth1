@@ -1,0 +1,261 @@
+[
+    {
+        "title": "Current Location",
+        "coords": {
+            "lat": 42.496815,
+            "lng": -92.330469
+        }
+    },
+    {
+        "title": "Chicago, US",
+        "coords": {
+            "lat": 41.8781,
+            "lng": -87.6298
+        }
+    },
+    {
+        "title": "New Delhi, IN",
+        "coords": {
+            "lat": 28.6139,
+            "lng": 77.209
+        }
+    },
+    {
+        "title": "Kyiv, UA",
+        "coords": {
+            "lat": 50.4501,
+            "lng": 30.5234
+        }
+    },
+    {
+        "title": "Paris, EU",
+        "coords": {
+            "lat": 48.8566,
+            "lng": 2.3522
+        }
+    },
+    {
+        "title": "Seoul, KR",
+        "coords": {
+            "lat": 37.5665,
+            "lng": 126.978
+        }
+    },
+    {
+        "title": "Daisen, JP",
+        "coords": {
+            "lat": 39.45304,
+            "lng": 140.47545
+        }
+    },
+    {
+        "title": "Egypt, AF",
+        "coords": {
+            "lat": 26.8206,
+            "lng": 30.8025
+        }
+    },
+    {
+        "title": "Brazil, SA",
+        "coords": {
+            "lat": -14.235,
+            "lng": -51.9253
+        }
+    },
+    {
+        "title": "Mexico City, MX",
+        "coords": {
+            "lat": 19.4326,
+            "lng": -99.1332
+        }
+    },
+    {
+        "title": "Alice Springs, AU",
+        "coords": {
+            "lat": -23.698,
+            "lng": 133.8807
+        }
+    },
+    {
+        "title": "Gansu, CN",
+        "coords": {
+            "lat": 36.0594,
+            "lng": 103.8263
+        }
+    },
+    {
+        "title": "South Pole, AQ",
+        "coords": {
+            "lat": 90.0,
+            "lng": 45.0
+        }
+    },
+    {
+        "title": "Chile, SA",
+        "coords": {
+            "lat": -35.6751,
+            "lng": -71.543
+        }
+    },
+    {
+        "title": "Sabah, MA",
+        "coords": {
+            "lat": 5.9788,
+            "lng": 116.0753
+        }
+    },
+    {
+        "title": "Cancun, MX",
+        "coords": {
+            "lat": 21.1619,
+            "lng": -86.8515
+        }
+    },
+    {
+        "title": "Zambia, AF",
+        "coords": {
+            "lat": -13.1339,
+            "lng": 27.8493
+        }
+    },
+    {
+        "title": "Ash-Shahaniyah, QA",
+        "coords": {
+            "lat": 25.4106,
+            "lng": 51.1846
+        }
+    },
+    {
+        "title": "Tokyo, JP",
+        "coords": {
+            "lat": 35.6895,
+            "lng": 139.6917
+        }
+    },
+    {
+        "title": "Los Angeles, US",
+        "coords": {
+            "lat": 34.0522,
+            "lng": -118.2437
+        }
+    },
+    {
+        "title": "London, UK",
+        "coords": {
+            "lat": 51.5074,
+            "lng": -0.1278
+        }
+    },
+    {
+        "title": "Berlin, DE",
+        "coords": {
+            "lat": 52.5200,
+            "lng": 13.4050
+        }
+    },
+    {
+        "title": "Sydney, AU",
+        "coords": {
+            "lat": -33.8688,
+            "lng": 151.2093
+        }
+    },
+    {
+        "title": "Moscow, RU",
+        "coords": {
+            "lat": 55.7558,
+            "lng": 37.6173
+        }
+    },
+    {
+        "title": "Cairo, EG",
+        "coords": {
+            "lat": 30.0444,
+            "lng": 31.2357
+        }
+    },
+    {
+        "title": "Buenos Aires, AR",
+        "coords": {
+            "lat": -34.6037,
+            "lng": -58.3816
+        }
+    },
+    {
+        "title": "Bangkok, TH",
+        "coords": {
+            "lat": 13.7563,
+            "lng": 100.5018
+        }
+    },
+    {
+        "title": "Cape Town, ZA",
+        "coords": {
+            "lat": -33.9249,
+            "lng": 18.4241
+        }
+    },
+    {
+        "title": "New York City, US",
+        "coords": {
+            "lat": 40.7128,
+            "lng": -74.0060
+        }
+    },
+    {
+        "title": "Des Moines, US",
+        "coords": {
+            "lat": 41.5891,
+            "lng": -93.6162
+        }
+    },
+    {
+        "title": "Singapore, SG",
+        "coords": {
+            "lat": 1.3521,
+            "lng": 103.8198
+        }
+    },
+    {
+        "title": "Istanbul, TR",
+        "coords": {
+            "lat": 41.0082,
+            "lng": 28.9784
+        }
+    },
+    {
+        "title": "Dubai, AE",
+        "coords": {
+            "lat": 25.2048,
+            "lng": 55.2708
+        }
+    },
+    {
+        "title": "São Paulo, BR",
+        "coords": {
+            "lat": -23.5505,
+            "lng": -46.6333
+        }
+    },
+    {
+        "title": "Mumbai, IN",
+        "coords": {
+            "lat": 19.0760,
+            "lng": 72.8777
+        }
+    },
+    {
+        "title": "Shanghai, CN",
+        "coords": {
+            "lat": 31.2304,
+            "lng": 121.4737
+        }
+    },
+    {
+        "title": "Rome, IT",
+        "coords": {
+            "lat": 41.9028,
+            "lng": 12.4964
+        }
+    }
+]
